@@ -1,0 +1,9 @@
+streamlit
+requests
+langchain
+sentence-transformers
+huggingface-hub
+langchain-community
+python-dotenv
+pydantic==1.10.7
+langchain-groq==0.0.1
